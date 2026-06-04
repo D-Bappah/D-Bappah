@@ -56,7 +56,7 @@ with varying educational needs.
 Represented senior staff during school functions and internal meetings.
 
 ##Featured projects
- Campus Gigs a freelance marketplace platform
+ Campus Gigs a freelance marketplace platform: https://github.com/D-Bappah/Campus-GIGS
 <!--
 **D-Bappah/D-Bappah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
