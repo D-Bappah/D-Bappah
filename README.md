@@ -1,4 +1,5 @@
-## Hi there I am Abdurrahman Abubakar👋
+# Hi there I am Abdurrahman Abubakar👋
+## BIO
 I am a Software Engineering undergraduate at Nile University of Nigeria with practical experience in backend
 development, telecommunications operations, project management, and technical leadership. Experienced in
 designing RESTful APIs, database architecture, authentication systems, cloud integrations, and collaborative
@@ -6,6 +7,17 @@ software development workflows. Strong interest in Cybersecurity, Backend Engine
 Architecture, with proven leadership experience managing technical teams and coordinating multidisciplinary
 projects
 
+## TECH STACK & TOOLS
+• 
+Programming Languages: JavaScript, Java (Basic), C++, C
+Backend Development: Node.js, Express.js, RESTful API Design, JWT Authentication, Bcrypt, Mongoose
+ODM
+Frontend & Design: React.js, Figma, Canva
+Databases: MongoDB, MySQL
+Cloud & Services: Cloudinary, Socket.IO, Render, Paystack Test API
+Developer Tools: Git, GitHub, Postman, Visual Studio Code
+
+### Expiriences
 Front-End Developer Intern
 Kwali Wire and Cable Manufacturing LTD (Kwali Web Solutions)
 [July – October 2025]
@@ -18,6 +30,7 @@ Shadowed client inventory and transaction workflows to understand real-time data
 Completed Harvard CS50’s Artificial Intelligence with Python course concurrently.
 Proactively solved technical blockers by re-scoping deliverables and focusing on front-end perfection.
 Received direct mentorship from the Tech Team Lead and Project Manager
+
 ---------------------------------------------------------------------------------------------------------
 Software Engineering Intern
 Verse Telecoms
@@ -29,6 +42,7 @@ Assisted in Optical Network Terminal (ONT) installation, configuration, testing,
 Participated in network monitoring, troubleshooting, and maintenance activities alongside senior engineers.
 Coordinated with cross-functional teams including customer service, sales, and network engineering
 departments to ensure operational compliance.
+
 ---------------------------------------------------------------------------------------------------------------
 Assistant Teacher
 Glisten International Academy
@@ -40,6 +54,9 @@ academic feedback.
 Assisted with classroom technology troubleshooting and adapted communication strategies to support learners
 with varying educational needs.
 Represented senior staff during school functions and internal meetings.
+
+##Featured projects
+ Campus Gigs a freelance marketplace platform
 <!--
 **D-Bappah/D-Bappah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
