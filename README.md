@@ -56,7 +56,12 @@ with varying educational needs.
 Represented senior staff during school functions and internal meetings.
 
 ##Featured projects
- Campus Gigs a freelance marketplace platform: https://github.com/D-Bappah/Campus-GIGS
+ Campus Gigs a freelance marketplace platform: https://github.com/D-Bappah/Campus-GIGS 
+ Fitness Tracker Mobile Application: https://github.com/D-Bappah/TrackTive
+
+ ##Contact
+ Linkedin: www.linkedin.com/in/abdulrahman-abubakar-286b01412
+ email: abdurrahmanabubakar234@gmail.com
 <!--
 **D-Bappah/D-Bappah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
